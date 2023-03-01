@@ -3,6 +3,10 @@ The task is to move the car using only the pixy camera provided along with the c
 
 ![image](https://user-images.githubusercontent.com/79053599/179040830-9c331b0b-118d-47cb-a063-781e238e5e18.png)
 
+
+### Final Task Path
+![Final Track](https://user-images.githubusercontent.com/79053599/222254405-9e1ae793-0220-495e-ba96-97befae539ba.png)
+
 The complete development is done in ros2 enviroment and gazebo simulation in Ubuntu 20.04
 <hr>
 For the installation of ros2 and all the required packages pls refer <a href='https://nxp.gitbook.io/nxp-aim'>here</a>
