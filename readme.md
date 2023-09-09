@@ -49,6 +49,10 @@ or access a video demonstration of the run from <a href='https://github.com/Pran
 
 
 
+https://github.com/Pranay-Pandey/Self-driving-car/assets/79053599/16f33848-bc43-47aa-83f8-541c1f5aadc1
+
+<a href="https://github.com/Pranay-Pandey/self_driving_car/blob/main/SDC.mp4">Final track demo</a>
+
 To run it in your own systems first install all the packages using the <a href='https://nxp.gitbook.io/nxp-aim/installation-of-nxp-gazebo'>commands</a>
 
 and then replace the following files
